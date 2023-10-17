@@ -25,6 +25,6 @@ The Revenue Insights in Hospitality Domain dashboard is a powerful tool designed
 
 The dashboard is designed for hospitality professionals to monitor and optimize revenue strategies. Use it to analyze revenue data, set pricing strategies, and make data-driven decisions to maximize profitability.
 
-## contribution
+## Contribution
 We welcome contributions to the Revenue Insights Dashboard project. If you have suggestions, feature requests, or want to report issues, please open an issue or submit a pull request. Review our Contributing Guidelines for more information.
 
